@@ -4,4 +4,4 @@ The Demo example, and most example I found are using MUI(Material-UI). but react
 As I am working on a project using Chakra UI, I built this sandbox of react-dnd-treeview using Chakra UI Library and components.
 
 ## Live Demo
-[CodeSandbox](https://githubbox.com/medkrimi/react-dnd-treeview-with-chakra-ui-sandbox)
+[CodeSandbox](https://codesandbox.io/s/github/medkrimi/react-dnd-treeview-with-chakra-ui-sandbox)
